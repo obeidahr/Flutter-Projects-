@@ -1,0 +1,4 @@
+
+class SimpleBlocDelegate extends BlocDelegate{
+  
+}
